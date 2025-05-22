@@ -1,0 +1,159 @@
+{"text": "Hey! How are you today?", "label": "Interactive Gestures"}
+{"text": "Do you know where the nearest bus stop is?", "label": "Interactive Gestures"}
+{"text": "Let's go grab some coffee later.", "label": "Interactive Gestures"}
+{"text": "No, I don’t want to go out today.", "label": "Negative Expressions"}
+{"text": "I'm sorry, I can't make it to the meeting.", "label": "Negative Expressions"}
+{"text": "It is 3 PM now.", "label": "Thinking Gestures"}
+{"text": "I think this movie is great.", "label": "Positive Expressions"}
+{"text": "Do you like coffee?", "label": "Interactive Gestures"}
+{"text": "Do you want this?", "label": "Interactive Gestures"}
+{"text": "What time is it now?", "label": "Thinking Gestures"}
+{"text": "Can you help me carry this bag?", "label": "Interactive Gestures"}
+{"text": "I feel a little tired today.", "label": "Anxious/Defensive Gestures"}
+{"text": "Do you want to watch a movie tonight?", "label": "Interactive Gestures"}
+{"text": "Let's meet at the park later.", "label": "Interactive Gestures"}
+{"text": "It's really hot outside.", "label": "Thinking Gesture"}
+{"text": "Have you ever been to Japan?", "label": "Interactive Gestures"}
+{"text": "I need to go grocery shopping later.", "label": "Thinking Gestures"}
+{"text": "Can you pass me the salt?", "label": "Interactive Gestures"}
+{"text": "This cake tastes amazing!", "label": "Positive Expressions"}
+{"text": "What do you usually do on weekends?", "label": "Interactive Gestures"}
+{"text": "I forgot my umbrella at home.", "label": "Thinking Gestures"}
+{"text": "Do you know a good restaurant nearby?", "label": "Interactive Gestures"}
+{"text": "I think it's going to rain soon.", "label": "Thinking Gestures"}
+{"text": "You look great today!", "label": "Positive Expressions"}
+{"text": "Let's go for a walk after dinner.", "label": "Positive Expressions"}
+{"text": "I just finished reading a great book.", "label": "Positive Expressions"}
+{"text": "What’s your favorite type of music?", "label": "Interactive Gestures"}
+{"text": "Do you need any help with that?", "label": "Interactive Gestures"}
+{"text": "I love spending time at the beach.", "label": "Positive Expressions"}
+{"text": "Have you finished your work yet?", "label": "Thinking Gestures"}
+{"text": "I’m thinking about getting a new phone.", "label": "Thinking Gestures"}
+{"text": "That was a really funny joke!", "label": "Positive Expressions"}
+{"text": "Would you like some tea?", "label": "Interactive Gestures"}
+{"text": "I need to wake up early tomorrow.", "label": "Thinking Gestures"}
+{"text": "Are you free this weekend?", "label": "Interactive Gestures"}
+{"text": "The weather is so nice today.", "label": "Positive Expressions"}
+{"text": "What should we have for lunch?", "label": "Interactive Gestures"}
+{"text": "I lost my keys again.", "label": "Negative Expressions"}
+{"text": "Let’s take a break for a while.", "label": "Thinking Gestures"}
+{"text": "Have you seen my glasses?", "label": "Thinking Gestures"}
+{"text": "I think I need a vacation.", "label": "Thinking Gestures"}
+{"text": "That song is stuck in my head!", "label": "Thinking Gestures"}
+{"text": "Can you hear me clearly?", "label": "Thinking Gestures"}
+{"text": "This chair is really comfortable.", "label": "Positive Expressions"}
+{"text": "I love the smell of fresh coffee.", "label": "Positive Expressions"}
+{"text": "What are you planning to do today?", "label": "Thinking Gestures"}
+{"text": "My phone battery is almost dead.", "label": "Thinking Gestures"}
+{"text": "Do you want to join us for dinner?", "label": "Interactive Gestures"}
+{"text": "I just saw a really cute dog.", "label": "Positive Expressions"}
+{"text": "Let’s go shopping this afternoon.", "label": "Interactive Gestures"}
+{"text": "I can’t believe how fast time flies.", "label": "Thinking Gestures"}
+{"text": "Can you repeat that, please?", "label": "Thinking Gestures"}
+{"text": "I need to buy a birthday gift.", "label": "Thinking Gestures"}
+{"text": "What do you usually have for breakfast?", "label": "Interactive Gestures"}
+{"text": "I think I left my wallet at home.", "label": "Thinking Gestures"}
+{"text": "Do you have any plans for the holiday?", "label": "Interactive Gestures"}
+{"text": "My favorite season is autumn.", "label": "Positive Expressions"}
+{"text": "Can you turn down the volume a little?", "label": "Negative Expressions"}
+{"text": "I had a great time today!", "label": "Positive Expressions"}
+{"text": "Can you help me fix my laptop?", "label": "Interactive Gestures"}
+{"text": "Do you know how to get to the train station?", "label": "Interactive Gestures"}
+{"text": "What’s the best way to organize my files?", "label": "Thinking Gestures"}
+{"text": "You should drink more water to stay hydrated.", "label": "Positive Expressions"}
+{"text": "I recommend trying this new restaurant downtown.", "label": "Positive Expressions"}
+{"text": "Do you have any suggestions for a good book?", "label": "Interactive Gestures"}
+{"text": "Let me show you how to use this app.", "label": "Interactive Gestures"}
+{"text": "Could you send me the report by noon?", "label": "Interactive Gestures"}
+{"text": "I think you should check your email again.", "label": "Thinking Gestures"}
+{"text": "What’s the quickest way to finish this assignment?", "label": "Thinking Gestures"}
+{"text": "May I add something to that point?", "label": "Interactive Gestures"}
+{"text": "Sorry to cut in, but I have an update.", "label": "Interactive Gestures"}
+{"text": "Hold on a second, let me explain.", "label": "Thinking Gestures"}
+{"text": "Go ahead, I’ll wait for my turn.", "label": "Interactive Gestures"}
+{"text": "Let’s take turns speaking.", "label": "Interactive Gestures"}
+{"text": "Can I share my opinion on this?", "label": "Interactive Gestures"}
+{"text": "I think we should let her finish first.", "label": "Interactive Gestures"}
+{"text": "One at a time, please.", "label": "Positive Expressions"}
+{"text": "I’ll speak after you’re done.", "label": "Thinking Gestures"}
+{"text": "Let’s make sure everyone gets a chance to talk.", "label": "Interactive Gestures"}
+{"text": "What time does the meeting start?", "label": "Thinking Gestures"}
+{"text": "Let’s set a deadline for this task.", "label": "Emphasizing Gestures"}
+{"text": "How long do you think this will take?", "label": "Thinking Gestures"}
+{"text": "I need to leave by 6 PM.", "label": "Thinking Gestures"}
+{"text": "Can you remind me about our lunch tomorrow?", "label": "Interactive Gestures"}
+{"text": "Let’s take a five-minute break.", "label": "Thinking Gestures"}
+{"text": "We’re running out of time, let’s wrap up.", "label": "Emphasizing Gestures"}
+{"text": "Can we postpone this to next week?", "label": "Thinking Gestures"}
+{"text": "I have a tight schedule today.", "label": "Thinking Gestures"}
+{"text": "Let’s meet at 10 AM sharp.", "label": "Emphasizing Gestures"}
+{"text": "Speaking of movies, have you watched the latest Marvel film?", "label": "Interactive Gestures"}
+{"text": "Before we move on, let’s summarize what we discussed.", "label": "Thinking Gestures"}
+{"text": "That reminds me, I have something important to share.", "label": "Thinking Gestures"}
+{"text": "Let’s change the topic and talk about work.", "label": "Anxious/Defensive Gestures"}
+{"text": "Just to clarify, are we meeting at the usual place?", "label": "Interactive Gestures"}
+{"text": "By the way, did you hear the latest news?", "label": "Interactive Gestures"}
+{"text": "On a different note, how’s your family doing?", "label": "Interactive Gestures"}
+{"text": "Coming back to what we were discussing earlier...", "label": "Thinking Gestures"}
+{"text": "Let’s conclude this and move on to the next point.", "label": "Thinking Gestures"}
+{"text": "This brings me to my next question.", "label": "Thinking Gestures"}
+{"text": "Let me rephrase that to make it clearer.", "label": "Thinking Gestures"}
+{"text": "Sorry, I meant to say 5 PM, not 4 PM.", "label": "Thinking Gestures"}
+{"text": "Actually, let me correct myself on that.", "label": "Thinking Gestures"}
+{"text": "I think I explained that poorly—let me try again.", "label": "Thinking Gestures"}
+{"text": "Wait, that’s not exactly what I meant.", "label": "Thinking Gestures"}
+{"text": "I should have said it differently.", "label": "Thinking Gestures"}
+{"text": "Let me clarify what I was trying to say.", "label": "Thinking Gestures"}
+{"text": "I may have used the wrong word there.", "label": "Thinking Gestures"}
+{"text": "What I meant was something slightly different.", "label": "Thinking Gestures"}
+{"text": "That wasn’t the best way to say it, let me try again.", "label": "Anxious/Defensive Gestures"}
+{"text": "Could you slow down a little?", "label": "Thinking Gestures"}
+{"text": "Can you repeat that more clearly?", "label": "Thinking Gestures"}
+{"text": "Please speak louder, I can’t hear you well.", "label": "Interactive Gestures"}
+{"text": "Can you simplify that explanation?", "label": "Thinking Gestures"}
+{"text": "Could you rephrase that for me?", "label": "Interactive Gestures"}
+{"text": "I didn’t catch that last part, can you repeat it?", "label": "Thinking Gestures"}
+{"text": "Could you enunciate more clearly?", "label": "Negative Expressions"}
+{"text": "Please explain that again in a different way.", "label": "Thinking Gestures"}
+{"text": "Can you give an example to make it clearer?", "label": "Interactive Gestures"}
+{"text": "I didn’t quite understand, can you say it again?", "label": "Thinking Gestures"}
+{"text": "Does that sound okay to you?", "label": "Interactive Gestures"}
+{"text": "I hope I made that clear enough.", "label": "Thinking Gestures"}
+{"text": "Let me know if you need me to clarify.", "label": "Interactive Gestures"}
+{"text": "Am I making sense so far?", "label": "Thinking Gestures"}
+{"text": "I think I got that right, but let me confirm.", "label": "Thinking Gestures"}
+{"text": "I hope I’m explaining this properly.", "label": "Thinking Gestures"}
+{"text": "Is this explanation working for you?", "label": "Interactive Gestures"}
+{"text": "Let me check if I said that correctly.", "label": "Thinking Gestures"}
+{"text": "I want to make sure I conveyed that correctly.", "label": "Thinking Gestures"}
+{"text": "Did I explain that in an understandable way?", "label": "Thinking Gestures"}
+{"text": "Did you mean that we should start earlier?", "label": "Thinking Gestures"}
+{"text": "So, if I understand correctly, we need more time?", "label": "Thinking Gestures"}
+{"text": "Are you saying that the plan has changed?", "label": "Interactive Gestures"}
+{"text": "Let me confirm, you want me to handle this task?", "label": "Thinking Gestures"}
+{"text": "Can you clarify what you just said?", "label": "Thinking Gestures"}
+{"text": "So you’re suggesting we cancel the meeting?", "label": "Negative Expressions"}
+{"text": "Just to be sure, we’re meeting at 2 PM, right?", "label": "Thinking Gestures"}
+{"text": "Are you saying we need to redo the entire project?", "label": "Negative Expressions"}
+{"text": "Let me repeat that to check if I understood correctly.", "label": "Thinking Gestures"}
+{"text": "Does that mean we are going ahead with the new proposal?", "label": "Interactive Gestures"}
+{"text": "Hi! How have you been?", "label": "Interactive Gestures"}
+{"text": "I really appreciate your help.", "label": "Positive Expressions"}
+{"text": "Sorry for the inconvenience.", "label": "Negative Expressions"}
+{"text": "Thank you for taking the time to meet me.", "label": "Positive Expressions"}
+{"text": "It was great catching up with you!", "label": "Positive Expressions"}
+{"text": "Excuse me, could I ask for directions?", "label": "Interactive Gestures"}
+{"text": "Have a nice day!", "label": "Positive Expressions"}
+{"text": "I’m sorry, I didn’t mean to be rude.", "label": "Negative Expressions"}
+{"text": "Thanks a lot for your support!", "label": "Positive Expressions"}
+{"text": "No worries, take your time.", "label": "Positive Expressions"}
+{"text": "Could you tell me more about that?", "label": "Interactive Gestures"}
+{"text": "Let’s keep in touch.", "label": "Interactive Gestures"}
+{"text": "I completely understand how you feel.", "label": "Positive Expressions"}
+{"text": "Have you been to this place before?", "label": "Thinking Gestures"}
+{"text": "I’m so happy to see you again!", "label": "Positive Expressions"}
+{"text": "Would you mind helping me out?", "label": "Interactive Gestures"}
+{"text": "That’s a really interesting point you made.", "label": "Positive Expressions"}
+{"text": "I hope you have a safe trip!", "label": "Positive Expressions"}
+{"text": "Let me know if you need anything.", "label": "Interactive Gestures"}
+{"text": "I’ll see you again soon!", "label": "Positive Expressions"}

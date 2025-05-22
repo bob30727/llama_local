@@ -1,0 +1,2067 @@
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I'm sorry, but it seems there's a [@timestamp_begin]system issue at the moment. ",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 9.33 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "We ran into [@timestamp_begin]an unexpected issue. Please try again [@timestamp_begin]later.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 3.37 seconds
+==================================================================
+Processing sentence: An error has occurred. Let me fix that for you right away.
+{
+  "text": "An [@timestamp_begin]error has occurred.  Let me [@timestamp_begin]fix that for you right away.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.51 seconds
+==================================================================
+Processing sentence: We’re experiencing technical difficulties. Please be patient as we resolve the issue.
+{
+  "text": "We’re [@timestamp_begin]experiencing technical difficulties. Please be patient as we [@timestamp_begin]resolve the issue.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 3.62 seconds
+==================================================================
+Processing sentence: Something isn’t working as expected. I’ll look into it now.
+{
+  "text": "Something isn't working as expected [@timestamp_begin].  I'll [@timestamp_begin]look into it now.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 3.50 seconds
+==================================================================
+Processing sentence: I truly appreciate your patience, thank you so much!
+{
+  "text": "I truly appreciate your [@timestamp_begin]patience, thank you so much!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.05 seconds
+==================================================================
+Processing sentence: That must have been really challenging, I completely understand.
+{
+  "text": "That must have been really [@timestamp_begin]challenging, I completely [@timestamp_begin]understand.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.15 seconds
+==================================================================
+Processing sentence: Wow, that’s incredible news! I’m thrilled for you!
+{
+  "text": "Wow, that’s [@timestamp_begin]incredible news! I'm so excited and happy to hear this. You must be thrilled!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.68 seconds
+==================================================================
+Processing sentence: I can see how much this means to you, and I’m here to support you.
+{
+  "text": "I can [@timestamp_begin]see how much this means to you, and I’m here to [@timestamp_begin]support you.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.56 seconds
+==================================================================
+Processing sentence: That’s such a wonderful achievement, you should be proud!
+{
+  "text": "That's such a [@timestamp_begin]wonderful achievement, you should be [@timestamp_begin]proud!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.48 seconds
+==================================================================
+Processing sentence: Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.
+{
+  "text": "Here's our brand-new smartwatch [@timestamp_begin]packed with cutting-edge health tracking features.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.07 seconds
+==================================================================
+Processing sentence: Check out this high-performance gaming laptop, built for speed and power.
+{
+  "text": "Check out this [@timestamp_begin]high-performance gaming laptop, built for speed and power.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.99 seconds
+==================================================================
+Processing sentence: This stylish wireless headset offers crystal-clear sound and all-day comfort.
+{
+  "text": "This [@timestamp_begin]stylish wireless headset offers crystal-clear sound and all-day comfort.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.99 seconds
+==================================================================
+Processing sentence: I’d be happy to help you explore our latest products! Can I show you something specific today?
+{
+  "text": "I'd be happy to [@timestamp_begin]help you explore our latest products!",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 3.34 seconds
+==================================================================
+Processing sentence: This model offers amazing features that can really improve your daily experience. Would you like to know more?
+{
+  "text": "This model [@timestamp_begin]offers amazing features that can really improve your daily experience. Would you like to [@timestamp_begin]know more?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 3.62 seconds
+==================================================================
+Processing sentence: If you have any questions, feel free to ask. Thank you for visiting, and have a great day!
+{
+  "text": "If you have any questions, feel free to [@timestamp_begin]ask.  Thank you for visiting, and have a great day!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.60 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for [@timestamp_begin]stopping by! Hope to see you again soon, it was nice meeting you, and I look forward to seeing you in the future.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.76 seconds
+==================================================================
+Processing sentence: Take care and have a fantastic day!
+{
+  "text": "Thanks for visiting, take care! Have a great day ahead!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.36 seconds
+==================================================================
+Processing sentence: Goodbye! Let me know if you ever need any help.
+{
+  "text": "Goodbye! [@timestamp_begin]Let me know if you ever need any help.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.07 seconds
+==================================================================
+Processing sentence: It was great assisting you! Wishing you all the best!
+{
+  "text": "It was [@timestamp_begin]great assisting you! Wishing you all the [@timestamp_begin]best!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.49 seconds
+==================================================================
+Processing sentence: Hey there! It’s great to see you!
+{
+  "text": "Hey there! [@timestamp_begin]It's great to see you!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.02 seconds
+==================================================================
+Processing sentence: Welcome! Let me know if there’s anything I can assist you with.
+{
+  "text": "`Welcome! Let me know if there’s [@timestamp_begin]anything I can assist you with.`",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.10 seconds
+==================================================================
+Processing sentence: Good to have you here! How can I make your day better?
+{
+  "text": "Good to have you here!  How can I [@timestamp_begin]make your day better?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.44 seconds
+==================================================================
+Processing sentence: Hi! I’m here to help. What can I do for you today?
+{
+  "text": "Hi! I'm [@timestamp_begin]here to help. What can I [@timestamp_begin]do for you today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 3.51 seconds
+==================================================================
+Processing sentence: Hello and welcome! Feel free to ask me anything.
+{
+  "text": "Hello and welcome! [@timestamp_begin]welcome  Feel free to ask me [@timestamp_begin]anything ",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 3.45 seconds
+==================================================================
+Processing sentence: Let me guide you to the support section for further assistance.
+{
+  "text": "Let me [@timestamp_begin]guide you to the support section for further assistance.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.94 seconds
+==================================================================
+Processing sentence: Click here to move to your account settings.
+{
+  "text": "Click here to [@timestamp_begin]move to your account settings.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.93 seconds
+==================================================================
+Processing sentence: Let me show you how to get to the product details.
+{
+  "text": "Let me [@timestamp_begin]show you how to get to the product details.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.04 seconds
+==================================================================
+Processing sentence: You can find the section you need by following this link.
+{
+  "text": "You can [@timestamp_begin]find the section you need by following this link.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.03 seconds
+==================================================================
+Processing sentence: Let me direct you to the help center for more information.
+{
+  "text": "Let me [@timestamp_begin]direct you to the help center for more information.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I’m [@timestamp_begin]sorry, but it seems there’s a [@timestamp_begin]system issue at the moment. Let me [@timestamp_begin]quickly resolve that for you.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 9.65 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "Apologies, we [@timestamp_begin]ran into an unexpected issue. Please [@timestamp_begin]try again later.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 3.48 seconds
+==================================================================
+Processing sentence: An error has occurred. Let me fix that for you right away.
+{
+  "text": "An error has occurred. [@timestamp_begin]Let me fix that for you right away.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 3.15 seconds
+==================================================================
+Processing sentence: We’re experiencing technical difficulties. Please be patient as we resolve the issue.
+{
+  "text": "We're [@timestamp_begin]experiencing technical difficulties. ",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 3.25 seconds
+==================================================================
+Processing sentence: Something isn’t working as expected. I’ll look into it now.
+{
+  "text": "Something isn’t [@timestamp_begin]working as expected.",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 3.29 seconds
+==================================================================
+Processing sentence: I truly appreciate your patience, thank you so much!
+{
+  "text": "I truly appreciate [@timestamp_begin]your patience, thank you so much!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.97 seconds
+==================================================================
+Processing sentence: That must have been really challenging, I completely understand.
+{
+  "text": "That must have been really [@timestamp_begin]challenging, I completely understand.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.02 seconds
+==================================================================
+Processing sentence: Wow, that’s incredible news! I’m thrilled for you!
+{
+  "text": "Wow, that’s [@timestamp_begin]incredible news! I’m [@timestamp_begin]thrilled for you!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.52 seconds
+==================================================================
+Processing sentence: I can see how much this means to you, and I’m here to support you.
+{
+  "text": "I can see how much this [@timestamp_begin]means to you, and I’m here to support you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.19 seconds
+==================================================================
+Processing sentence: That’s such a wonderful achievement, you should be proud!
+{
+  "text": "That's such a [@timestamp_begin]wonderful achievement, you should be [@timestamp_begin]proud!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.46 seconds
+==================================================================
+Processing sentence: Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.
+{
+  "text": "Here’s our brand-new smartwatch [@timestamp_begin]packed with cutting-edge health tracking features.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.11 seconds
+==================================================================
+Processing sentence: Check out this high-performance gaming laptop, built for speed and power.
+{
+  "text": "Check out this [@timestamp_begin]high-performance gaming laptop, built for speed and power.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.11 seconds
+==================================================================
+Processing sentence: This stylish wireless headset offers crystal-clear sound and all-day comfort.
+{
+  "text": "This [@timestamp_begin]stylish wireless headset offers crystal-clear sound and all-day comfort.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.03 seconds
+==================================================================
+Processing sentence: I’d be happy to help you explore our latest products! Can I show you something specific today?
+{
+  "text": "I'd be happy to [@timestamp_begin]help you explore our latest products! Can I [@timestamp_begin]show you something specific today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.60 seconds
+==================================================================
+Processing sentence: This model offers amazing features that can really improve your daily experience. Would you like to know more?
+{
+  "text": "This model [@timestamp_begin]offers amazing features that can really improve your daily experience. Would you like to know more?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 3.48 seconds
+==================================================================
+Processing sentence: If you have any questions, feel free to ask. Thank you for visiting, and have a great day!
+{
+  "text": "If you have any questions, [@timestamp_begin]feel free to ask. Thank you for visiting, and have a great day!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.67 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for [@timestamp_begin]stopping by! Hope to see you again soon!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.41 seconds
+==================================================================
+Processing sentence: Take care and have a fantastic day!
+{
+  "text": "Thanks for visiting, take care! Goodbye! Have a great day ahead!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.37 seconds
+==================================================================
+Processing sentence: Goodbye! Let me know if you ever need any help.
+{
+  "text": "Goodbye! [@timestamp_begin]Let me know if you ever need any help.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.08 seconds
+==================================================================
+Processing sentence: It was great assisting you! Wishing you all the best!
+{
+  "text": "It was [@timestamp_begin]great assisting you! Wishing you [@timestamp_begin]all the best!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.44 seconds
+==================================================================
+Processing sentence: Hey there! It’s great to see you!
+{
+  "text": "Hey there! It's [@timestamp_begin]great to see you!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.02 seconds
+==================================================================
+Processing sentence: Welcome! Let me know if there’s anything I can assist you with.
+{
+  "text": "Welcome! Let me know if there’s [@timestamp_begin]anything I can assist you with.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.11 seconds
+==================================================================
+Processing sentence: Good to have you here! How can I make your day better?
+{
+  "text": "Good to have you here! [@timestamp_begin]make  How can I [@timestamp_begin]help",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.46 seconds
+==================================================================
+Processing sentence: Hi! I’m here to help. What can I do for you today?
+{
+  "text": "Hi! I’m [@timestamp_begin]here to help. What can I [@timestamp_begin]do for you today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.48 seconds
+==================================================================
+Processing sentence: Hello and welcome! Feel free to ask me anything.
+{
+  "text": "Hello and welcome! [@timestamp_begin]Feel free to ask me anything.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.98 seconds
+==================================================================
+Processing sentence: Let me guide you to the support section for further assistance.
+{
+  "text": "Let me [@timestamp_begin]guide you to the support section for further assistance.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.01 seconds
+==================================================================
+Processing sentence: Click here to move to your account settings.
+{
+  "text": "Click here to [@timestamp_begin]move to your account settings.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.95 seconds
+==================================================================
+Processing sentence: Let me show you how to get to the product details.
+{
+  "text": "Let me [@timestamp_begin]show you how to get to the product details.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.03 seconds
+==================================================================
+Processing sentence: You can find the section you need by following this link.
+{
+  "text": "You can [@timestamp_begin]find the section you need by following this link.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: Let me direct you to the help center for more information.
+{
+  "text": "Let me [@timestamp_begin]direct you to the help center for more information.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.98 seconds
+==================================================================
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I’m sorry, but it seems there’s a system issue at the moment.  Let me quickly [@timestamp_begin]resolve that for you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 4.66 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "Apologies, we ran into an [@timestamp_begin]unexpected issue.  Please try again later.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 2.77 seconds
+==================================================================
+Processing sentence: An error has occurred. Let me fix that for you right away.
+{
+  "text": "An error has [@timestamp_begin]occurred. Let me [@timestamp_begin]fix that for you right away.",
+  "intention": "positive",
+  "motion_tag": []
+}
+Execution time: 2.80 seconds
+==================================================================
+Processing sentence: We’re experiencing technical difficulties. Please be patient as we resolve the issue.
+{
+  "text": "We’re experiencing [@timestamp_begin]technical difficulties.  Please be [@timestamp_begin]patient as we [@timestamp_begin]resolve the issue.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.84 seconds
+==================================================================
+Processing sentence: Something isn’t working as expected. I’ll look into it now.
+{
+  "text": "Something isn’t working as expected.  I’ll look into it now.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.68 seconds
+==================================================================
+Processing sentence: I truly appreciate your patience, thank you so much!
+{
+  "text": "I truly appreciate your patience [@timestamp_begin]thank you so much! (No action needed as it's an independent sentiment)",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: That must have been really challenging, I completely understand.
+{
+  "text": "That must have been [@timestamp_begin]really challenging,  I completely [@timestamp_begin]understand.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.83 seconds
+==================================================================
+Processing sentence: Wow, that’s incredible news! I’m thrilled for you!
+{
+  "text": "Wow, that’s [@timestamp_begin]incredible news! I’m [@timestamp_begin]thrilled for you!",
+  "intention": "positive",
+  "motion_tag": []
+}
+Execution time: 2.82 seconds
+==================================================================
+Processing sentence: I can see how much this means to you, and I’m here to support you.
+{
+  "text": "I can [@timestamp_begin]see how much this means to you, and I’m here to [@timestamp_begin]support you. and I’m here to support you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.89 seconds
+==================================================================
+Processing sentence: That’s such a wonderful achievement, you should be proud!
+{
+  "text": "That's such a [@timestamp_begin]wonderful[/@@timestamp_end] achievement, you should be [@timestamp_begin]proud[/@@timestamp_end]! You have worked very hard and it really paid off.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.02 seconds
+==================================================================
+Processing sentence: Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.
+{
+  "text": "Here’s our brand-new smartwatch, [@timestamp_begin]packed with cutting-edge health tracking features. This is an [@timestamp_begin]amazing piece of technology.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.86 seconds
+==================================================================
+Processing sentence: Check out this high-performance gaming laptop, built for speed and power.
+{
+  "text": "Check out [@timestamp_begin]this high-performance gaming laptop, built for speed and power.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.62 seconds
+==================================================================
+Processing sentence: This stylish wireless headset offers crystal-clear sound and all-day comfort.
+{
+  "text": "This stylish wireless headset [@timestamp_begin]offers crystal-clear sound and all-day comfort. It has a[@timestamp_begin]comfortable design that will keep you happy for hours.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.91 seconds
+==================================================================
+Processing sentence: I’d be happy to help you explore our latest products! Can I show you something specific today?
+{
+  "text": "I’d be happy to [@timestamp_begin]help you explore our latest products! Can I [@timestamp_begin]show you something specific today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.91 seconds
+==================================================================
+Processing sentence: This model offers amazing features that can really improve your daily experience. Would you like to know more?
+{
+  "text": "This model offers [@timestamp_begin]amazing features that can really improve your daily experience.  Would you like to [@timestamp_begin]know more?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.91 seconds
+==================================================================
+Processing sentence: If you have any questions, feel free to ask. Thank you for visiting, and have a great day!
+{
+  "text": "If you have any questions, feel free to [@timestamp_begin]ask.  Thank you for [@timestamp_begin]visiting, and have a great day!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.92 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for [@timestamp_begin]stopping by!  Hope to see you again [@timestamp_begin]soon!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.84 seconds
+==================================================================
+Processing sentence: Take care and have a fantastic day!
+{
+  "text": "Take care and have a [@timestamp_begin]fantastic[/timestamp_begin] day! (There are no multiple sentences in this example)",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 2.87 seconds
+==================================================================
+Processing sentence: Goodbye! Let me know if you ever need any help.
+{
+  "text": "Goodbye!  Let me know if you ever need any help. [@timestamp_begin]help",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 2.78 seconds
+==================================================================
+Processing sentence: It was great assisting you! Wishing you all the best!
+{
+  "text": "It was great [@timestamp_begin]assisting you! Wishing you all the best!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 2.76 seconds
+==================================================================
+Processing sentence: Hey there! It’s great to see you!
+{
+  "text": "Hey there! Its [@timestamp_begin]great to see you! It’s [@timestamp_begin]nice to meet you!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.93 seconds
+==================================================================
+Processing sentence: Welcome! Let me know if there’s anything I can assist you with.
+{
+  "text": "Welcome! Let me know if there’s anything I can [@timestamp_begin]assist you with.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.76 seconds
+==================================================================
+Processing sentence: Good to have you here! How can I make your day better?
+{
+  "text": "Good to have you here! How can I make your day better? Can we start with a tour of our facility?",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.81 seconds
+==================================================================
+Processing sentence: Hi! I’m here to help. What can I do for you today?
+{
+  "text": "Hi! I’m [@timestamp_begin]here to help.  What can I [@timestamp_begin]do for you today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.92 seconds
+==================================================================
+Processing sentence: Hello and welcome! Feel free to ask me anything.
+{
+  "text": "Hello and welcome! [@timestamp_begin]Feel free to ask me anything.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.70 seconds
+==================================================================
+Processing sentence: Let me guide you to the support section for further assistance.
+{
+  "text": "Let me [@timestamp_begin]guide you to the support section for further assistance. ###STEP2### neutral",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.85 seconds
+==================================================================
+Processing sentence: Click here to move to your account settings.
+{
+  "text": "Click here to move to your account settings. to is a verb that indicates movement or action.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    },
+    {
+      "ID": 2,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.86 seconds
+==================================================================
+Processing sentence: Let me show you how to get to the product details.
+{
+  "text": "Let me [@timestamp_begin]show you how to get to the product details. I’ll guide you through the steps to access the product information.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.85 seconds
+==================================================================
+Processing sentence: You can find the section you need by following this link.
+{
+  "text": "You can find the section you need by [@timestamp_begin]following this link. This link will help you navigate to the section you're looking for.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.89 seconds
+==================================================================
+Processing sentence: Let me direct you to the help center for more information.
+{
+  "text": "Let me [@timestamp_begin]direct you to the help center for more information. Can I provide you with any additional assistance?",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.79 seconds
+==================================================================
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I’m sorry, but it seems there’s a system issue at the moment.  [@timestamp_begin]resolving the system issue. ",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 3.47 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "Apologies, we ran into an [@timestamp_begin]unexpected issue. Please try again [@timestamp_begin]later.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.70 seconds
+==================================================================
+Processing sentence: An error has occurred. Let me fix that for you right away.
+{
+  "text": "An error has occurred.  Let me [@timestamp_begin]fix that for you right away.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.88 seconds
+==================================================================
+Processing sentence: We’re experiencing technical difficulties. Please be patient as we resolve the issue.
+{
+  "text": "We’re experiencing technical difficulties [@timestamp_begin]technical difficulties. Please be patient as we resolve the issue [@timestamp_begin]issue.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.77 seconds
+==================================================================
+Processing sentence: Something isn’t working as expected. I’ll look into it now.
+{
+  "text": "Something isn’t working as expected [@timestamp_begin]I’ll look into it now. Can you please provide more details about the issue so I can assist you better?",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Listening State"
+    }
+  ]
+}
+Execution time: 2.97 seconds
+==================================================================
+Processing sentence: I truly appreciate your patience, thank you so much!
+{
+  "text": "I truly appreciate your patience, [@timestamp_begin]thank you so much! (No additional keyword found)",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.79 seconds
+==================================================================
+Processing sentence: That must have been really challenging, I completely understand.
+{
+  "text": "That must have been [@timestamp_begin]really challenging[/@timestamp_begin], I completely [@timestamp_begin]understand[/@timestamp_begin]. If you're looking for something with more power, I [@timestamp_begin]recommend[/@timestamp_begin] this high-performance model.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.19 seconds
+==================================================================
+Processing sentence: Wow, that’s incredible news! I’m thrilled for you!
+{
+  "text": "",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.74 seconds
+==================================================================
+Processing sentence: I can see how much this means to you, and I’m here to support you.
+{
+  "text": "I can see how much [@timestamp_begin]this means to you, and I’m here to support you. and I’m here to support you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.84 seconds
+==================================================================
+Processing sentence: That’s such a wonderful achievement, you should be proud!
+{
+  "text": "That's such a [@timestamp_begin]wonderful[@timestamp_end] achievement, you should be [@timestamp_begin]proud[@timestamp_end]! You deserve to celebrate this success!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.96 seconds
+==================================================================
+Processing sentence: Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.
+{
+  "text": "Here’s our brand-new smartwatch, [@timestamp_begin]packed with cutting-edge health tracking features.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.74 seconds
+==================================================================
+Processing sentence: Check out this high-performance gaming laptop, built for speed and power.
+{
+  "text": "Check out this [@timestamp_begin]high-performance gaming laptop, built for speed and power.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.74 seconds
+==================================================================
+Processing sentence: This stylish wireless headset offers crystal-clear sound and all-day comfort.
+{
+  "text": "This [@timestamp_begin]stylish wireless headset offers crystal-clear sound and all-day comfort. It has a[@timestamp_begin]comfortable design that makes it perfect for long listening sessions.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.87 seconds
+==================================================================
+Processing sentence: I’d be happy to help you explore our latest products! Can I show you something specific today?
+{
+  "text": "I’d be happy to [@timestamp_begin]help you explore our latest products! Can I [@timestamp_begin]show you something specific today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.99 seconds
+==================================================================
+Processing sentence: This model offers amazing features that can really improve your daily experience. Would you like to know more?
+{
+  "text": "This model offers [@timestamp_begin]amazing[/@timestamp_begin] features that can really [@timestamp_begin]improve[/@timestamp_begin] your daily experience. Would you like to [@timestamp_begin]know[/@timestamp_begin] more?",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.12 seconds
+==================================================================
+Processing sentence: If you have any questions, feel free to ask. Thank you for visiting, and have a great day!
+{
+  "text": "If you have any questions, feel free to [@timestamp_begin]ask. Thank you for visiting, and have a great day! ",
+  "intention": "positive",
+  "motion_tag": []
+}
+Execution time: 2.81 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for [@timestamp_begin]stopping by! Hope to see you again [@timestamp_begin]soon!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 2.89 seconds
+==================================================================
+Processing sentence: Take care and have a fantastic day!
+{
+  "text": "Take care and have a [@timestamp_begin]fantastic day! (no [@timestamp_begin] keyword in this sentence)",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.86 seconds
+==================================================================
+Processing sentence: Goodbye! Let me know if you ever need any help.
+{
+  "text": "Goodbye! Let me know if you ever need any help. [@timestamp_begin]Goodbye[/@timestamp_begin]",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 2.77 seconds
+==================================================================
+Processing sentence: It was great assisting you! Wishing you all the best!
+{
+  "text": "It was great [@timestamp_begin]assisting you! Wishing you all the best!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 2.71 seconds
+==================================================================
+Processing sentence: Hey there! It’s great to see you!
+{
+  "text": "",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.70 seconds
+==================================================================
+Processing sentence: Welcome! Let me know if there’s anything I can assist you with.
+{
+  "text": "Welcome! Let me know if there’s anything I can [@timestamp_begin]assist you with.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.73 seconds
+==================================================================
+Processing sentence: Good to have you here! How can I make your day better?
+{
+  "text": "Good to have you here!  How can I make your day better?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: Hi! I’m here to help. What can I do for you today?
+{
+  "text": "Hi! I’m [@timestamp_begin]here to help. What can I [@timestamp_begin]do for you today?",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 2.94 seconds
+==================================================================
+Processing sentence: Hello and welcome! Feel free to ask me anything.
+{
+  "text": "Hello and welcome! [@timestamp_begin]Feel free to ask me anything. Welcome to our store, we're glad to have you here!",
+  "intention": "positive",
+  "motion_tag": []
+}
+Execution time: 2.81 seconds
+==================================================================
+Processing sentence: Let me guide you to the support section for further assistance.
+{
+  "text": "Let me guide you to the [@timestamp_begin]support section for further assistance! We have a team of experts who are ready to help you at [@timestamp_begin]any time.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.82 seconds
+==================================================================
+Processing sentence: Click here to move to your account settings.
+{
+  "text": "Click here to [@timestamp_begin]move to your account settings. ###STEP2### Navigation",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.60 seconds
+==================================================================
+Processing sentence: Let me show you how to get to the product details.
+{
+  "text": "Let me show you [@timestamp_begin]how to get to the product details! That sounds [@timestamp_begin]easy, I'll just follow your steps.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.73 seconds
+==================================================================
+Processing sentence: You can find the section you need by following this link.
+{
+  "text": "You can find the section you need by [@timestamp_begin]following this link. ###STEP2### positive",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.76 seconds
+==================================================================
+Processing sentence: Let me direct you to the help center for more information.
+{
+  "text": "Let me [@timestamp_begin]direct you to the help center for more information. Can I provide any additional assistance before you get started? ",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.79 seconds
+==================================================================
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I’m sorry, but it seems there’s a [@timestamp_begin]system issue at the moment. ",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 9.32 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "We ran into [@timestamp_begin]an unexpected issue. Please try again [@timestamp_begin]later.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 3.56 seconds
+==================================================================
+Processing sentence: An error has occurred. Let me fix that for you right away.
+{
+  "text": "An error has occurred. [@timestamp_begin]Let me fix that for you right away.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.96 seconds
+==================================================================
+Processing sentence: We’re experiencing technical difficulties. Please be patient as we resolve the issue.
+{
+  "text": "We’re experiencing [@timestamp_begin]technical difficulties. Please be patient as we [@timestamp_begin]resolve the issue.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Idle Animations"
+    }
+  ]
+}
+Execution time: 3.58 seconds
+==================================================================
+Processing sentence: Something isn’t working as expected. I’ll look into it now.
+{
+  "text": "Something isn’t working as expected. [@timestamp_begin]I’ll look into it now. There was an issue with something, so [@timestamp_begin]I’ll take a closer look.",
+  "intention": "negative",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    },
+    {
+      "ID": 2,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 3.75 seconds
+==================================================================
+Processing sentence: I truly appreciate your patience, thank you so much!
+{
+  "text": "I truly appreciate your [@timestamp_begin]patience, thank you so much!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.04 seconds
+==================================================================
+Processing sentence: That must have been really challenging, I completely understand.
+{
+  "text": "That [@timestamp_begin]must have been really challenging, I completely [@timestamp_begin]understand.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.12 seconds
+==================================================================
+Processing sentence: Wow, that’s incredible news! I’m thrilled for you!
+{
+  "text": "Wow, that’s [@timestamp_begin]incredible news! I'm [@timestamp_begin]thrilled for you!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.49 seconds
+==================================================================
+Processing sentence: I can see how much this means to you, and I’m here to support you.
+{
+  "text": "I can see how much [@timestamp_begin]this means to you, and I’m here to support you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.12 seconds
+==================================================================
+Processing sentence: That’s such a wonderful achievement, you should be proud!
+{
+  "text": "That's such a [@timestamp_begin]wonderful achievement, you should be [@timestamp_begin]proud!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.50 seconds
+==================================================================
+Processing sentence: Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.
+{
+  "text": "Here’s our brand-new smartwatch [@timestamp_begin]packed with cutting-edge health tracking features.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 2.97 seconds
+==================================================================
+Processing sentence: Check out this high-performance gaming laptop, built for speed and power.
+{
+  "text": "Check out this [@timestamp_begin]high-performance gaming laptop, built for speed and power.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.04 seconds
+==================================================================
+Processing sentence: This stylish wireless headset offers crystal-clear sound and all-day comfort.
+{
+  "text": "This [@timestamp_begin]stylish wireless headset offers crystal-clear sound and all-day comfort.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.07 seconds
+==================================================================
+Processing sentence: I’d be happy to help you explore our latest products! Can I show you something specific today?
+{
+  "text": "I'd be happy to [@timestamp_begin]help you explore our latest products!",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 3.41 seconds
+==================================================================
+Processing sentence: This model offers amazing features that can really improve your daily experience. Would you like to know more?
+{
+  "text": "This model [@timestamp_begin]offers amazing features that can really improve your daily experience. Would you like to [@timestamp_begin]know more?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.65 seconds
+==================================================================
+Processing sentence: If you have any questions, feel free to ask. Thank you for visiting, and have a great day!
+{
+  "text": "If you have any questions, [@timestamp_begin]feel free to ask. Thank you for visiting, and have a [@timestamp_begin]great day!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Idle Animations"
+    },
+    {
+      "ID": 2,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.69 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for [@timestamp_begin]stopping by! Hope to see you again soon!",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 3.30 seconds
+==================================================================
+Processing sentence: Take care and have a fantastic day!
+{
+  "text": "Goodbye, take care! [@timestamp_begin]have a fantastic day!",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: Goodbye! Let me know if you ever need any help.
+{
+  "text": "Goodbye! [@timestamp_begin]Let me know if you ever need any help.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    }
+  ]
+}
+Execution time: 3.08 seconds
+==================================================================
+Processing sentence: It was great assisting you! Wishing you all the best!
+{
+  "text": "It was [@timestamp_begin]great assisting you! Wishing you all the [@timestamp_begin]best!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Farewell Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.58 seconds
+==================================================================
+Processing sentence: Hey there! It’s great to see you!
+{
+  "text": "Hey [@timestamp_begin]there! It’s [@timestamp_begin]great to see you!",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Emotion Set"
+    },
+    {
+      "ID": 2,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.38 seconds
+==================================================================
+Processing sentence: Welcome! Let me know if there’s anything I can assist you with.
+{
+  "text": "Welcome! Let me know if there's [@timestamp_begin]anything I can assist you with.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    }
+  ]
+}
+Execution time: 3.16 seconds
+==================================================================
+Processing sentence: Good to have you here! How can I make your day better?
+{
+  "text": "Good to have you here! [@timestamp_begin]welcome  How can I [@timestamp_begin]help make your day better?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.57 seconds
+==================================================================
+Processing sentence: Hi! I’m here to help. What can I do for you today?
+{
+  "text": "Hi! I’m [@timestamp_begin]here to help. What can I [@timestamp_begin]do for you today?",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.58 seconds
+==================================================================
+Processing sentence: Hello and welcome! Feel free to ask me anything.
+{
+  "text": "Hello and welcome! [@timestamp_begin]welcome! Feel free to [@timestamp_begin]ask me anything.",
+  "intention": "positive",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Greeting Group"
+    },
+    {
+      "ID": 2,
+      "motion": "Emotion Set"
+    }
+  ]
+}
+Execution time: 3.56 seconds
+==================================================================
+Processing sentence: Let me guide you to the support section for further assistance.
+{
+  "text": "Let me [@timestamp_begin]guide you to the support section for further assistance.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.02 seconds
+==================================================================
+Processing sentence: Click here to move to your account settings.
+{
+  "text": "Click here [@timestamp_begin]to move to your account settings.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.95 seconds
+==================================================================
+Processing sentence: Let me show you how to get to the product details.
+{
+  "text": "Let me [@timestamp_begin]show you how to get to the product details.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Product Showcase"
+    }
+  ]
+}
+Execution time: 3.05 seconds
+==================================================================
+Processing sentence: You can find the section you need by following this link.
+{
+  "text": "You can find the [@timestamp_begin]section you need by following this link.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 3.00 seconds
+==================================================================
+Processing sentence: Let me direct you to the help center for more information.
+{
+  "text": "Let me [@timestamp_begin]direct you to the help center for more information.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Navigation"
+    }
+  ]
+}
+Execution time: 2.99 seconds
+==================================================================

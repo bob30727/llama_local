@@ -1,0 +1,26 @@
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "I’m sorry, but it seems there’s a system issue at the moment. Let me [@timestamp_begin]resolve that for you.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 11.61 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "Apologies, we ran into an [@timestamp_begin]unexpected issue. Please try again later.",
+  "intention": "neutral",
+  "motion_tag": [
+    {
+      "ID": 1,
+      "motion": "Error Handling"
+    }
+  ]
+}
+Execution time: 2.95 seconds
+==================================================================

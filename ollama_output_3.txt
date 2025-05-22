@@ -1,0 +1,22 @@
+Processing sentence: I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.
+{
+  "text": "Sorry",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 5.54 seconds
+==================================================================
+Processing sentence: Apologies, we ran into an unexpected issue. Please try again later.
+{
+  "text": "Sorry to hear that.",
+  "intention": "neutral",
+  "motion_tag": []
+}
+Execution time: 2.58 seconds
+==================================================================
+Processing sentence: Thanks for stopping by! Hope to see you again soon!
+{
+  "text": "Thanks for stopping by! Hope to see you again soon!",
+  "intention": "neutral",
+  "motion_tag": []
+}
